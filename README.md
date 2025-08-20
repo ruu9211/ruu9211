@@ -25,9 +25,9 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 
 💡 **My goal:** To leverage this hybrid background in industries where **data, quality, and efficiency intersect** — from supply chain analytics to healthcare modeling to predictive risk management.  
 
-# 📂 Portfolio Projects  
+## 📂 Portfolio Projects  
 
-## 🛢️ SQL Projects  
+### 🛢️ SQL Projects  
 - **E-commerce Analytics** 🛒  
   Built complex SQL queries to analyze customer sessions, product performance, and regional sales trends using an `all_sessions` dataset.  
   - 🧹 Data Cleaning: Removed duplicates, handled `(not set)` placeholders, standardized schema  
@@ -36,7 +36,7 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 
 ---
 
-## 🤖 Machine Learning Projects  
+### 🤖 Machine Learning Projects  
 
 - **Breast Cancer Classification (UCI Dataset)** 🧬  
   Developed ML pipelines to classify benign vs malignant tumors.  
@@ -46,63 +46,74 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 
 ---
 
-## 📊 Tableau Projects  
+### 📊 Tableau Projects  
 - **E-commerce Sales Dashboard** 💻  
   Interactive Tableau dashboard to visualize sales trends, customer behavior, and regional performance.  
   - 🔍 Filters for product category, time, and geography  
   - 📈 KPIs: Revenue growth, conversion rates, top-selling products  
 
 ---
-# 🛠️ Skills  
+## 🛠️ Skills  
 
-## 🔢 Programming & Data Handling  
+### 🔢 Programming & Data Handling  
 | Python | SQL | Pandas | NumPy |
 |--------|-----|--------|-------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
 
 ---
 
-## 🤖 Machine Learning & Modeling  
+### 🤖 Machine Learning & Modeling  
 
-### 📉 Regression Models  
-| Linear Regression | Polynomial Regression | Ridge | Lasso | kNN Regression |
-|-------------------|-----------------------|-------|-------|----------------|
-| ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue) | ![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-purple) | ![Ridge](https://img.shields.io/badge/Ridge-grey) | ![Lasso](https://img.shields.io/badge/Lasso-lightblue) | ![kNN Regression](https://img.shields.io/badge/kNN%20Regression-teal) |
+#### 📉 Regression  
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue)  
+![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-purple)  
+![Ridge](https://img.shields.io/badge/Ridge-grey)  
+![Lasso](https://img.shields.io/badge/Lasso-lightblue)  
+![kNN Regression](https://img.shields.io/badge/kNN%20Regression-teal)  
 
-### 🧩 Classification Models  
-| Logistic Regression | kNN Classifier | Decision Trees | Random Forest (Classifier) |
-|---------------------|----------------|----------------|-----------------------------|
-| ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-darkblue) | ![kNN Classifier](https://img.shields.io/badge/kNN%20Classifier-green) | ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-orange) | ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22) |
+#### 🧩 Classification  
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-darkblue)  
+![kNN Classifier](https://img.shields.io/badge/kNN%20Classifier-green)  
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-orange)  
+![Random Forest (Classifier)](https://img.shields.io/badge/Random%20Forest-228B22)  
+![Support Vector Machine](https://img.shields.io/badge/SVM-darkred)  
+![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-lightgrey)  
 
-### 🚀 Ensemble & Advanced  
-| XGBoost | scikit-learn | Model Evaluation | Hyperparameter Tuning |
-|---------|--------------|------------------|-----------------------|
-| ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Model%20Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple) | ![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal) |
+#### 🚀 Ensemble & Advanced  
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white)  
+![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-orange)  
+![AdaBoost](https://img.shields.io/badge/AdaBoost-brown)  
+
+#### ⚙️ ML Frameworks & Utilities  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple)  
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal)  
 
 ---
 
-## 📊 Visualization & BI  
+### 📊 Visualization & BI  
 | Tableau | Power BI | Seaborn | Matplotlib | Plotly |
 |---------|----------|---------|------------|--------|
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) | ![Seaborn](https://img.shields.io/badge/Seaborn-2E6E8E) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-004C99) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) |
 
 ---
 
-## 🏭 Industry Knowledge  
+### 🏭 Industry Knowledge  
 | Food Industry | Cosmetic Industry | Pharmaceutical Industry | Manufacturing Processes | Lean Six Sigma | RCA | Process Optimization | KPI Development |
 |---------------|------------------|--------------------------|-------------------------|----------------|-----|---------------------|----------------|
 | ![Food Industry](https://img.shields.io/badge/Food%20Industry-red) | ![Cosmetic Industry](https://img.shields.io/badge/Cosmetic%20Industry-pink) | ![Pharmaceutical Industry](https://img.shields.io/badge/Pharmaceutical%20Industry-darkblue) | ![Manufacturing Processes](https://img.shields.io/badge/Manufacturing%20Processes-grey) | ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-success) | ![RCA](https://img.shields.io/badge/Root%20Cause%20Analysis-orange) | ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-yellowgreen) | ![KPI Development](https://img.shields.io/badge/KPI%20Development-blueviolet) |
 
 ---
 
-## 💻 Tools & Platforms  
+### 💻 Tools & Platforms  
 | Git | GitHub | Jupyter | VS Code | Excel | SharePoint |
 |-----|--------|---------|---------|-------|------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) | ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) |
 
 ---
 
-## 💬 Communication & Collaboration  
+### 💬 Communication & Collaboration  
 | Slack | Discord | Microsoft Teams |
 |-------|---------|-----------------|
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | ![MS Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white) |
