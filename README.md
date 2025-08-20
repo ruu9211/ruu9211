@@ -78,9 +78,9 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 ---
 
 ## 🏭 Industry Knowledge  
-| Food Safety | Sanitation Leadership | Quality Engineering | Process Optimization | Lean Six Sigma | Root Cause Analysis | KPI Development |
-|-------------|------------------------|---------------------|----------------------|----------------|---------------------|-----------------|
-| ![Food Safety](https://img.shields.io/badge/Food%20Safety-critical) | ![Sanitation Leadership](https://img.shields.io/badge/Sanitation%20Leadership-important) | ![Quality Engineering](https://img.shields.io/badge/Quality%20Engineering-lightgrey) | ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-yellowgreen) | ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-success) | ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-orange) | ![KPI Development](https://img.shields.io/badge/KPI%20Development-blueviolet) |
+| Food Safety |  Quality Engineering | Process Optimization | Lean Six Sigma | Root Cause Analysis | KPI Development |
+|-------------|---------------------|----------------------|----------------|---------------------|-----------------|
+| ![Food Safety](https://img.shields.io/badge/Food%20Safety-critical) | ![Quality Engineering](https://img.shields.io/badge/Quality%20Engineering-lightgrey) | ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-yellowgreen) | ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-success) | ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-orange) | ![KPI Development](https://img.shields.io/badge/KPI%20Development-blueviolet) |
 
 ---
 
