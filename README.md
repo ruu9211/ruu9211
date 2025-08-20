@@ -64,31 +64,17 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 
 ### 🤖 Machine Learning & Modeling  
 
-#### 📉 Regression  
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue)  
-![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-purple)  
-![Ridge](https://img.shields.io/badge/Ridge-grey)  
-![Lasso](https://img.shields.io/badge/Lasso-lightblue)  
-![kNN Regression](https://img.shields.io/badge/kNN%20Regression-teal)  
+**Regression Models**  
+`Linear` | `Polynomial` | `Ridge` | `Lasso` | `kNN`  
 
-#### 🧩 Classification  
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-darkblue)  
-![kNN Classifier](https://img.shields.io/badge/kNN%20Classifier-green)  
-![Decision Trees](https://img.shields.io/badge/Decision%20Trees-orange)  
-![Random Forest (Classifier)](https://img.shields.io/badge/Random%20Forest-228B22)  
-![Support Vector Machine](https://img.shields.io/badge/SVM-darkred)  
-![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-lightgrey)  
+**Classification Models**  
+`Logistic` | `Decision Trees` | `Random Forest` | `kNN` | `SVM` | `Naive Bayes`  
 
-#### 🚀 Ensemble & Advanced  
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22)  
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white)  
-![Gradient Boosting](https://img.shields.io/badge/Gradient%20Boosting-orange)  
-![AdaBoost](https://img.shields.io/badge/AdaBoost-brown)  
+**Ensemble & Boosting**  
+`Random Forest` | `Gradient Boosting` | `AdaBoost` | `XGBoost`  
 
-#### ⚙️ ML Frameworks & Utilities  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple)  
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal)  
+**Frameworks & Tools**  
+`scikit-learn` | `Model Evaluation` | `Hyperparameter Tuning` | `Pipeline` | `Pickle` | `Joblib`
 
 ---
 
