@@ -13,9 +13,8 @@ I’m a **Chemical Engineering graduate** with over a decade of experience spann
 
 🧼 **Sanitation Leadership:** I directed sanitation and food safety programs across **multiple facilities**. Highlights included:  
 - 🧴 **Standardizing cleaning and hygiene practices** to meet **CFIA** and **USDA** requirements. 
-- 🦠 Leading **Listeria investigations** and developing **preventive controls** in raw and ready-to-eat environments.
+- 🦠 Leading **Listeria and Salmonella investigations** and implementing **preventative controls** in raw and ready-to-eat environments.
 - 💧 Tackling **water pressure drops** during peak sanitation.
-- 🚰 Redesigning **drains** to eliminate microbial harborage points  
 - 📊 Building **KPI frameworks and auditing systems** to hold **chemical suppliers** and **contractors** accountable, driving measurable improvements across the network. 
 
 Throughout my career, one theme stood out: **data was always my most powerful tool**. Whether it was uncovering root causes, improving KPIs, or streamlining processes, I relied on data-driven insights to deliver results.  
