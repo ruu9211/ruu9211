@@ -63,9 +63,9 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 ---
 
 ## 🤖 Machine Learning & Modeling  
-| Regression | Classification | Concepts |
-|------------|----------------|----------|
-| ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue) <br> ![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-lightblue) <br> ![Ridge](https://img.shields.io/badge/Ridge-darkblue) <br> ![Lasso](https://img.shields.io/badge/Lasso-blueviolet) <br> ![KNN Regression](https://img.shields.io/badge/KNN%20Regression-cyan) | ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blue) <br> ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-green) <br> ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22) <br> ![SVM](https://img.shields.io/badge/SVM-yellow) <br> ![KNN Classifier](https://img.shields.io/badge/KNN%20Classifier-cadetblue) | ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-purple) <br> ![Cross Validation](https://img.shields.io/badge/Cross%20Validation-teal) <br> ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-orange) <br> ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-grey) <br> ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) |
+| scikit-learn | XGBoost | Random Forest | Logistic Regression | Model Evaluation | Hyperparameter Tuning |
+|--------------|---------|---------------|---------------------|------------------|-----------------------|
+| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) | ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22) | ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blue) | ![Model%20Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple) | ![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal) |
 
 ---
 
@@ -77,9 +77,9 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 ---
 
 ## 🏭 Industry Knowledge  
-| Food Safety |  Quality Engineering | Process Optimization | Lean Six Sigma | Root Cause Analysis | KPI Development |
-|-------------|---------------------|----------------------|----------------|---------------------|-----------------|
-| ![Food Safety](https://img.shields.io/badge/Food%20Safety-critical) | ![Quality Engineering](https://img.shields.io/badge/Quality%20Engineering-lightgrey) | ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-yellowgreen) | ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-success) | ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-orange) | ![KPI Development](https://img.shields.io/badge/KPI%20Development-blueviolet) |
+| Food Industry | Cosmetic Industry | Pharmaceutical Industry | Manufacturing Processes | Lean Six Sigma | RCA | Process Optimization | KPI Development |
+|---------------|------------------|--------------------------|-------------------------|----------------|-----|---------------------|----------------|
+| ![Food Industry](https://img.shields.io/badge/Food%20Industry-red) | ![Cosmetic Industry](https://img.shields.io/badge/Cosmetic%20Industry-pink) | ![Pharmaceutical Industry](https://img.shields.io/badge/Pharmaceutical%20Industry-darkblue) | ![Manufacturing Processes](https://img.shields.io/badge/Manufacturing%20Processes-grey) | ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-success) | ![RCA](https://img.shields.io/badge/Root%20Cause%20Analysis-orange) | ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-yellowgreen) | ![KPI Development](https://img.shields.io/badge/KPI%20Development-blueviolet) |
 
 ---
 
@@ -87,5 +87,6 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 | Git | GitHub | Jupyter | VS Code | Excel | SharePoint |
 |-----|--------|---------|---------|-------|------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) | ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) |
+
 
 
