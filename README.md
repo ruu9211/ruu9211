@@ -63,9 +63,21 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 ---
 
 ## 🤖 Machine Learning & Modeling  
-| scikit-learn | XGBoost | Random Forest | Logistic Regression | Model Evaluation | Hyperparameter Tuning |
-|--------------|---------|---------------|---------------------|------------------|-----------------------|
-| ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) | ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22) | ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-blue) | ![Model%20Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple) | ![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal) |
+
+### 📉 Regression Models  
+| Linear Regression | Polynomial Regression | Ridge | Lasso | kNN Regression |
+|-------------------|-----------------------|-------|-------|----------------|
+| ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-blue) | ![Polynomial Regression](https://img.shields.io/badge/Polynomial%20Regression-purple) | ![Ridge](https://img.shields.io/badge/Ridge-grey) | ![Lasso](https://img.shields.io/badge/Lasso-lightblue) | ![kNN Regression](https://img.shields.io/badge/kNN%20Regression-teal) |
+
+### 🧩 Classification Models  
+| Logistic Regression | kNN Classifier | Decision Trees | Random Forest (Classifier) |
+|---------------------|----------------|----------------|-----------------------------|
+| ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-darkblue) | ![kNN Classifier](https://img.shields.io/badge/kNN%20Classifier-green) | ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-orange) | ![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22) |
+
+### 🚀 Ensemble & Advanced  
+| XGBoost | scikit-learn | Model Evaluation | Hyperparameter Tuning |
+|---------|--------------|------------------|-----------------------|
+| ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) | ![Model%20Evaluation](https://img.shields.io/badge/Model%20Evaluation-purple) | ![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-teal) |
 
 ---
 
@@ -88,5 +100,11 @@ I began with the **Lighthouse Labs Data Science Diploma program**, which was unf
 |-----|--------|---------|---------|-------|------------|
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) | ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white) |
 
+---
+
+## 💬 Communication & Collaboration  
+| Slack | Discord | Microsoft Teams |
+|-------|---------|-----------------|
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | ![MS Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white) |
 
 
