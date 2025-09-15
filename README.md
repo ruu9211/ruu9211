@@ -82,9 +82,4 @@ Below are few of my key projects:
 |-------|---------|-----------------|
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | ![MS Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white) |
 
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-abeysuriya/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ruu9211)
-
 
