@@ -1,20 +1,15 @@
 # 🌟 From Microbes to ML Models 🌟  
 ## 👋 About Me  
 
-I’m a **Chemical Engineer turned Data Scientist** with 8+ years of experience in **Quality, Process Engineering, and Sanitation leadership** across the **food, pharmaceutical, and cosmetic industries**. Most recently, I worked as a **Senior Manager of Sanitation**, overseeing compliance, food safety programs, and cross-facility process improvements across Canada.  
+I’m a **Chemical Engineer turned Data Scientist** with 8+ years of experience in **Quality, Process Engineering, and Sanitation leadership** across the **food, pharmaceutical, and cosmetic industries**. Most recently, I worked as a **Senior Manager of Sanitation**, overseeing compliance, food safety programs, and cross-facility process improvements across Canada. Throughout my career, one theme stood out: **data was always my most powerful tool**. From uncovering root causes of contamination to optimizing KPIs and streamlining production, I relied on data to drive measurable results. That realization led me to pivot into **Data Science**.  
 
-Throughout my career, one theme stood out: **data was always my most powerful tool**. From uncovering root causes of contamination to optimizing KPIs and streamlining production, I relied on data to drive measurable results. That realization led me to pivot into **Data Science 🚀**.  
+I began with the **Lighthouse Labs Data Science Diploma program**, which was unfortunately cut short when the school declared bankruptcy. Determined to continue, I **self-learned, built projects, and ultimately pursued a formal Data Science diploma** at **BrainStation** to strengthen my expertise and credentials. I have since completed the **BrainStation Data Science Diploma** and built projects in **SQL, Machine Learning, and Tableau**, combining my industry expertise with modern data skills.  
 
-I began with the **Lighthouse Labs Data Science Diploma program**, which was unfortunately cut short when the school declared bankruptcy. Determined to continue, I **self-learned, built projects, and ultimately pursued a formal Data Science diploma** at **BrainStation** to strengthen my expertise and credentials.  
-
-I’ve since completed the **BrainStation Data Science Diploma** and built projects in **SQL, Machine Learning, and Tableau**, combining my industry expertise with modern data skills.  
-
-💡 **My mission:** To leverage this hybrid background to solve data challenges where **quality, efficiency, and decision-making intersect** — from **supply chain analytics** to **predictive modeling** in healthcare, financial, startups and manufacturing sectors.
+💡 **My mission:** To leverage my hybrid background in **engineering, quality, and data science** to tackle data challenges where **efficiency, quality, and decision-making intersect** — driving impact in **supply chain analytics, predictive modeling, and risk management** across sectors including **healthcare, finance, startups, and manufacturing**.
  
 ## 📂 Portfolio Projects  
 
-Here are a few of my main data projects spanning **Machine Learning, NLP, SQL, and  Dashboards**.  
-You can explore more of my work on my [GitHub profile](https://github.com/ruu9211).  
+Here are a few of my main data projects spanning **Machine Learning, NLP, SQL, and  Dashboards**. You can explore more of my work on my [GitHub profile](https://github.com/ruu9211).  
 
 Below are few of my key projects: 
 
@@ -24,10 +19,10 @@ Below are few of my key projects:
 | 🌦️ Rain in Australia — Machine Learning Project | Weather dataset modeling to predict rainfall using classification models and boosting techniques. | Python, Pandas, NumPy, Seaborn, Matplotlib, NLTK, scikit-learn, XGBoost | [Repo](https://github.com/ruu9211/rain-in-australia-ml) |
 | 🧬 Breast Cancer Wisconsin Dataset — ML Project | Built ML pipelines to classify tumors as benign or malignant with strong recall on malignant cases. | Python, Pandas, NumPy, Seaborn, Matplotlib, scikit-learn | [Repo](https://github.com/ruu9211/breast-cancer-wisconsin-ml) |
 | 🏡 California Housing Prices — ML Project | Regression modeling to predict house prices using tree-based and ensemble methods. | Python, Pandas, NumPy, Seaborn, Matplotlib, scikit-learn | [Repo](https://github.com/ruu9211/california-housing-ml) |
-| 📈 Tesla Stock Price Forecasting | Time-series forecasting with LSTM deep learning models using stock price data. | Python, Pandas, NumPy, Keras/TensorFlow, scikit-learn, yfinance | [Repo](https://github.com/ruu9211/tesla_stock_price) |
+| 📈 Tesla Stock Price Forecasting | Time-series forecasting with LSTM deep learning models using stock price data. | Python, Pandas, NumPy, Keras/TensorFlow, scikit-learn | [Repo](https://github.com/ruu9211/tesla_stock_price) |
 | 💹 Sales Performance Dashboard | Tableau dashboard analyzing revenue trends, demographics, and discount impacts for a multinational retailer. | Tableau | [Repo](https://github.com/ruu9211/sales_analysis) |
 | ✈️ British Airways Reviews Dashboard | Interactive Tableau dashboard analyzing customer sentiment across ratings, aircraft, and traveler types. | Tableau | [Repo](https://github.com/ruu9211/british_airways_reviews) |
-| 🚲 Dublin Bikes & ☕ Coffee Shops | Statistical modeling of Dublin bike slots vs. nearby coffee shop density and ratings. | Python, Pandas, NumPy, APIs, scikit-learn, Statsmodels | [Repo](https://github.com/ruu9211/dublin-bikes-coffee-shops) |
+| 🚲 Dublin Bikes & ☕ Coffee Shops | Statistical modeling of Dublin bike slots vs. nearby coffee shop density and ratings. | Python, Pandas, NumPy, APIs, Statsmodels | [Repo](https://github.com/ruu9211/dublin-bikes-coffee-shops) |
 | 📝 Sarcasm Detection — NLP Text Classification | Built deep learning NLP pipelines for sarcasm detection using transformers and PyTorch. | Python, Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Hugging Face Transformers | [Repo](https://github.com/ruu9211/sarcasm_detection) |
 
 
@@ -87,5 +82,9 @@ Below are few of my key projects:
 |-------|---------|-----------------|
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white) | ![MS Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white) |
 
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuru-abeysuriya/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ruu9211)
 
 
