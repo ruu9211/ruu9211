@@ -3,7 +3,7 @@
 
 I’m a **Chemical Engineer turned Data Scientist** with 8+ years of experience in **Quality, Process Engineering, and Sanitation leadership** across the **food, pharmaceutical, and cosmetic industries**. Most recently, I worked as a **Senior Manager of Sanitation**, overseeing compliance, food safety programs, and cross-facility process improvements across Canada. Throughout my career, one theme stood out: **data was always my most powerful tool**. From uncovering root causes of contamination to optimizing KPIs and streamlining production, I relied on data to drive measurable results. That realization led me to pivot into **Data Science**.  
 
-I began with the **Lighthouse Labs Data Science Diploma program**, which was unfortunately cut short when the school declared bankruptcy. Determined to continue, I **self-learned, built projects, and ultimately pursued a formal Data Science diploma** at **BrainStation** to strengthen my expertise and credentials. I have since completed the **BrainStation Data Science Diploma** and built projects in **SQL, Machine Learning, and Tableau**, combining my industry expertise with modern data skills.  
+I pursued a formal **Data Science diploma at BrainStation** to strengthen my expertise and credentials. Since completing the program, I have built projects in **SQL, Machine Learning, and Tableau**, combining my industry expertise with modern data skills.
 
 💡 **My mission:** To leverage my hybrid background in **engineering, quality, and data science** to tackle data challenges where **efficiency, quality, and decision-making intersect** — driving impact in **supply chain analytics, predictive modeling, and risk management** across sectors including **healthcare, finance, startups, and manufacturing**.
  
